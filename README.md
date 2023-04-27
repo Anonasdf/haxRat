@@ -10,7 +10,7 @@ A cloud based remote android managment suite, powered by NodeJS
 - Screen Recorder
 - Rear Camera Recorder
 - Front Camera Recorder
-- Lock Device
+- Lock Device [Not Work]
 - GPS Logging
 - Microphone Recording
 - View Contacts
